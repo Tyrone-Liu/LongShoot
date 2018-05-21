@@ -1,6 +1,11 @@
 # Long Shoot
 
-**Long Shoot** is an ***experimental*** android camera app for shooting **long exposure photo** and **stacking photos** with RAW output and full control of shutter parameters.  
+**Long Shoot** is an ***experimental*** android camera app using camera2 API.  
+The purpose is shooting **long exposure photo** and **stacking photos** with RAW output and full control of shutter parameters.  
+
+
+## Progress
+One thing I need to clarify is that before a certain state of development, this app is definitely unuseable.  Most of the experimental work will be done in my other repo [ExperimentalApp](https://github.com/Tyrone-Liu/ExperimentalApp.git), because I do not want this repo to become massive while I am learning Android programming and experimenting camera2 API features.  
 
 
 ## Features & To-Do
